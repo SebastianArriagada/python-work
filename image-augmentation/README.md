@@ -1,7 +1,9 @@
 # image-augmentation
-Contains image augmentation tools for object detection models, made by myself (for fun)
+Contains image augmentation tools for object detection models, made by myself (just for fun)
 
 ## Possible image augmentation:
+
+Each augmentation is applied to the image and label boxes
 
 * **flip**: Flip the image and labels horizontal, vertical or both
 * **rotate**: Rotate the image and label in 90º, 180º and 270º (ToDO, any angle)
