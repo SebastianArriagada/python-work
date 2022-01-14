@@ -25,3 +25,26 @@ Count the number of passing cars on the road.
  - Correctness: 100%
  - Performance: 100%
  - Total score: 100%
+
+[Count Divisors](https://github.com/SebastianArriagada/python-work/blob/main/codility/CountDiv.py)
+
+Compute number of integers divisible by k in range [a..b].
+ - Correctness: 100%
+ - Performance: 100%
+ - Total score: 100%
+
+[Genomic Range Query](https://github.com/SebastianArriagada/python-work/blob/main/codility/GenomicRangeQuery.py)
+
+Find the minimal nucleotide from a range of sequence DNA.
+ - Correctness: 100%
+ - Performance: 25%
+ - Total score: 62%
+
+ ## Bitwise Operations
+
+[Sparse Binary Decomposition](https://github.com/SebastianArriagada/python-work/blob/main/codility/SparseBinaryDecomposition.py)
+
+Decompose int into sum of ints having no consecutive 1s in binary form.
+ - Correctness: 80%
+ - Performance: 20%
+ - Total score: 50%
