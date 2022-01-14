@@ -16,3 +16,10 @@ Check whether array A is a permutation.
  - Correctness: 100%
  - Performance: 100%
  - Total score: 100%
+
+ [Passing Cars](https://github.com/SebastianArriagada/python-work/blob/main/codility/PassingCars.py)
+
+Count the number of passing cars on the road.
+ - Correctness: 100%
+ - Performance: 100%
+ - Total score: 100%
