@@ -9,3 +9,10 @@ Calculate the values of counters after applying all alternating operations: incr
  - Correctness: 100%
  - Performance: 80%
  - Total score: 88%
+
+[Permute Check](https://github.com/SebastianArriagada/python-work/blob/main/codility/MaxCounters.py)
+
+Check whether array A is a permutation.
+ - Correctness: 100%
+ - Performance: 100%
+ - Total score: 100%
