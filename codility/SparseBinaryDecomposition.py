@@ -4,6 +4,9 @@ def adjacentSet(n):
 
 def solution(N):
 
+    if N == 0:
+        return 0
+
     for n in range(0, int((N)/2)):
         
         if  not adjacentSet(n):
