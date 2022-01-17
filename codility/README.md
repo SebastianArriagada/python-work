@@ -7,8 +7,8 @@
 Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum
 
  - Correctness: 100%
- - Performance: 80%
- - Total score: 88%
+ - Performance: 100%
+ - Total score: 100%
 
 [Permute Check](https://github.com/SebastianArriagada/python-work/blob/main/codility/MaxCounters.py)
 
@@ -37,8 +37,15 @@ Compute number of integers divisible by k in range [a..b].
 
 Find the minimal nucleotide from a range of sequence DNA.
  - Correctness: 100%
- - Performance: 25%
- - Total score: 62%
+ - Performance: 100%
+ - Total score: 100%
+
+[Minimum Avgerage Two Slice](https://github.com/SebastianArriagada/python-work/blob/main/codility/MinAvgTwoSlice.py)
+
+Find the minimal average of any slice containing at least two elements.
+ - Correctness: 100%
+ - Performance: 100%
+ - Total score: 100%
 
  ## Bitwise Operations
 
