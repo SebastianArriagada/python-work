@@ -21,6 +21,10 @@
 
 [XOR STring 2](https://github.com/SebastianArriagada/python-work/blob/main/hackerRank/XORSTring2.py): Given two strings consisting of digits 0 and 1 only, find the XOR of the two strings.
 
-[Week 1 Test.py](https://github.com/SebastianArriagada/python-work/blob/main/hackerRank/Week1Test.py)
+[Week 1 Test](https://github.com/SebastianArriagada/python-work/blob/main/hackerRank/Week1Test.py)
 
 ## Second week 
+
+[Sales By Match](https://github.com/SebastianArriagada/python-work/blob/main/hackerRank/SalesByMatch.py): Determine how many pairs of socks with matching colors there are.
+
+[Zig Zag Sequence](https://github.com/SebastianArriagada/python-work/blob/main/hackerRank/ZigZagSequence.py): Given an array of distinct integers, transform the array into a zig zag sequence by permuting the array elements.
