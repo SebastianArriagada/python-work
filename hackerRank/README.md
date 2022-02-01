@@ -28,3 +28,5 @@
 [Sales By Match](https://github.com/SebastianArriagada/python-work/blob/main/hackerRank/SalesByMatch.py): Determine how many pairs of socks with matching colors there are.
 
 [Zig Zag Sequence](https://github.com/SebastianArriagada/python-work/blob/main/hackerRank/ZigZagSequence.py): Given an array of distinct integers, transform the array into a zig zag sequence by permuting the array elements.
+
+[Drawing Book](https://github.com/SebastianArriagada/python-work/blob/main/hackerRank/DrawingBook.py): Find and print the minimum number of pages that must be turned in order to arrive at page.
