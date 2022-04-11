@@ -55,3 +55,19 @@ Decompose int into sum of ints having no consecutive 1s in binary form.
  - Correctness: 80%
  - Performance: 20%
  - Total score: 50%
+
+## Sorting
+
+[Distinct](https://github.com/SebastianArriagada/python-work/blob/main/codility/Distinct.py)
+
+Compute number of distinct values in an array.
+ - Correctness: 100%
+ - Performance: 100%
+ - Total score: 100%
+
+[MaxProductOfThree](https://github.com/SebastianArriagada/python-work/blob/main/codility/MaxProductOfThree.py)
+
+Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
+ - Correctness: 100%
+ - Performance: 100%
+ - Total score: 100%
